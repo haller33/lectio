@@ -404,7 +404,11 @@ XX/08/2026
 
 ***** em aula
 
+#+begin_quote text
 
+transcrever a leitura, já ler e apresentar transcrito na próxima aula no arquivo da aula II.
+
+#+end_quote
 
 
 
