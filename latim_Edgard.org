@@ -71,15 +71,15 @@ XX/08/2026
   sum;
   - sumus
   sunt;
-  - suntis
-  estis;
   - est
+  estis;
+  - es
   est;
-  - estis
+  - sunt
   sumus;
   - sum
   es;
-  est
+  - estis
 
   #+end_quote
 
@@ -88,6 +88,7 @@ XX/08/2026
   #+begin_quote text
 
   a) familia est;
+  
   b) serua Spahyla est;
   c) est anim aula auri plena (aula, panela; auri plena, cheia de ouro);
   d) coquus est seruus (coquus, cozinheiro; seruus, escravo);
