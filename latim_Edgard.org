@@ -1,0 +1,369 @@
+* Latim Edgard
+
+** Edgard
+
+*** aulas
+
+**** I
+20/08/2026
+
+***** em aula
+
+****** notas
+
+#+begin_quote text
+
+
+plurale tantum
+
+- sobre fazer os exercíos da próxima aula
+  
+  Reler o texto do exercício atual
+  ler a gramática
+    - fazer os exercícios.
+  ler o próximo exercício e o glosário
+    - ler consultando o glosário.
+
+
+#+end_quote
+
+
+**** II
+XX/08/2026
+
+***** exercícios
+
+****** da aula anterior
+
+******* introdução
+
+- Morfologia
+  - 1. Traduza para o latim  
+
+  #+begin_quote text
+
+  (tu) es/você é;
+  - tu est
+
+  há (= existem);
+  - sum
+
+  (ele) é;
+  - (tu) est
+
+  há (=existe);
+  - sum
+
+  (vós) sois/(vocês) são;
+  - ille
+
+  eles são;
+  é;
+  eu sou;
+  (ela) é;
+
+  #+end_quote
+
+  - 2. mude s. para pl. e vise versa
+
+  #+begin_quote text
+
+  sum;
+  - sumus
+  sunt;
+  - suntis
+  estis;
+  - est
+  est;
+  - estis
+  sumus;
+  - sum
+  es;
+  est
+
+  #+end_quote
+
+  - 3. Usando a nota 5 da gramática, faça a correta tradução destas frases: 
+
+  #+begin_quote text
+
+  a) familia est;
+  b) serua Spahyla est;
+  c) est anim aula auri plena (aula, panela; auri plena, cheia de ouro);
+  d) coquus est seruus (coquus, cozinheiro; seruus, escravo);
+  e) Phaedra filia est;
+  f) in aedibus sunt Euclio, Phaedra et serua (in aedibus, na casa);
+  g) auarus est senex (auarus, avarento, senex, o (homen) velho);
+  h) est prope flumen paruus ager (prope flumen, perto do rio; paruus, pequeno, ager, campo);
+  
+
+  #+end_quote
+
+  - portugues-latim e vise versa:
+
+  #+begin_quote text
+
+  a) sunt in familia Euclio, Phaedra, Staphyla.
+     Há na família uma escrava.
+
+  b) Euclio et Phaedra in aedibus sunt.
+     A escrava está em casa.
+
+  c) Euclio sum.
+     você é um escravo.
+
+  d) filia Euclionis Phaedra est.
+     A escrava de Euclião é Estáfila.
+
+  e) Quis es?
+     Sou Euclião.
+
+  f) qui estis?
+     Somos Euclião e Fedra.
+
+  #+end_quote
+  
+****** sessão 1A
+
+- conjulgação de verbo 1º e 2º decl
+
+  #+begin_quote text
+
+
+  1ºs. amo
+  2ºs. amas
+  3ºs. amat
+  1ºpl. amamus
+  2ºpl. amatis
+  3ºpl. amant
+
+  1ºs. habeo
+  2ºs. habes
+  3ºs. habet
+  1ºpl. habemus
+  2ºpl. habetis
+  3ºpl. habent
+  
+  #+end_quote
+
+- Morfologia
+
+  - Conjungue
+    - os verbos
+  
+  #+begin_quote text
+   celo;
+     celo
+     celos
+     celot
+     celomus
+     celotis
+     celont
+   
+   timeo;
+     timeo
+     times
+     timet
+     timemus
+     timetis
+     timent
+     
+   porto;
+     porto
+     portos
+     portot
+     portomus
+     portotis
+     portont
+     
+   habeo;
+     habeo
+     habes
+     habet
+     habemus
+     habetis
+     habent
+    
+   (opcionais
+   habito;
+     habito
+     habitos
+     habitot
+     habitomus
+     habitotis
+     habitont
+
+   clamo;
+     clamo
+     clamos
+     clamot
+     clamomus
+     clamotis
+     clamont
+     
+   intro;
+     intro
+     intros
+     introt
+     intromus
+     introtis
+     intront
+
+   uoco;
+     uoco
+     uocos
+     uocot
+     uocomus
+     uocotis
+     uocont
+
+   sum;
+     sum
+     sumas
+     sumat
+     sumamus
+     sumatis
+     sumant
+
+   )
+   
+  #+end_quote
+
+  - traduza
+
+    #+begin_quote text
+
+
+    clamas;
+    habent;
+    intrat;
+    uoco;
+    sumus;
+    portamus;
+    times;
+    habetis;
+    est;
+    timet;
+    uocant;
+    celatis;
+    timemus;
+    habeo;
+    sunt;
+    
+    #+end_quote
+
+- casos latinos
+
+  - decline
+    
+    #+begin_quote text
+
+    coquus;
+    
+
+    aula;
+      aula
+      aula
+      aulam
+      aulae
+      aulae
+      aula
+
+      aulae
+      aulae
+      aulas
+      aularum
+      aulis
+
+    
+
+    (opcionais:
+    seruus;
+    familia;
+    corona;
+    scaena;
+    )
+    #+end_quote
+
+  - indique os casos
+    - os casos em que se encontra cada uma das palavras 
+
+    #+begin_quote text
+
+    seruarum;
+    coquo;
+    coronam;
+    seruos;
+    scaenae;
+    filia;
+    coquus;
+    serui;
+    coquum;
+    filiae;
+    scaenas;
+    serus;
+    coquorum;
+    aula;
+    seruis;
+    
+    #+end_quote
+
+  - traduza
+    - & passe o substantivo e o verbo para o pl. ou s. conforme apropriado.
+
+      `coquus seruam uocat; o cozinheiro chama a escrava. coqui seruas uocant.`
+    #+begin_quote text
+
+    a) sum seruus;
+    b) aulam porto;
+    c) coronas habent;
+    d) serua timet seruum;
+    e) seruas uocatis;
+    f) seruas aulas portant;
+    g) celamus aulas;
+    h) seruas celant coqui;
+    i) familia coronam habet;
+    j) uocat seruus seruam;
+
+    #+end_quote 
+    
+- preposições
+
+  - exercícios de leitura
+
+    - leia cada frase em latim, sem traduzir, depois identifique o sujeito do segundo verbo (em latim) e então traduza a frase para o portugues.
+    
+    #+begin_quote text
+
+    a) seruus in scaenam intrat. coronas portat.
+    b) coqui in aedibus sunt. seruas uocant;
+    c) est in familia Euclionis serua. Staphyla est.
+    d) in scaenam intrat Demaenetus. aulam auri plenam habet.
+    e) coquus et serua clamant. seruum enim timent.;
+
+    #+end_quote
+
+    #+begin_quote text
+    a) aulam seruus ...
+    b) serua coronam, aulam seruus ...
+    c) seruas serui ...
+    d) familia coquos ...
+    e) Lar seruos ...
+    f) aurum ego ...
+    g) Euclio familiam ...
+    h) aulas auri plenas et coronas seruae ...
+
+    #+end_quote
+    
+****** sessão 1B
+
+
+
+***** em aula
+
+
+
+
+
+
+
