@@ -40,31 +40,56 @@ XX/08/2026
 - Morfologia
   - 1. Traduza para o latim  
 
+|       | sum   | pronomes        |
+|-------+-------+-----------------|
+| 1ª sg | sum   | ego             |
+| 2ª sg | es    | tu              |
+| 3ª sg | est   | ille/illa/illud |
+| 1ª pl | sumus | nos             |
+| 2ª pl | estis | vos             |
+| 3ª pl | sunt  | illi/illae/illa |
+
   #+begin_quote text
 
-  (tu) es/você é;
-  - tu est
+  (tu) és/você é;
+  - tu es
 
-  há (= existem);
-  - sum
+#+begin_quote
+-- "tu és" é da segunda pessoa, mas em "você é" o verbo está na terceira pessoa.
+-- é mais prudente pensar em "tu és" para evitar conjugar o verbo na terceira pessoa sem querer.
+#+end_quote
+
+  há (= existe(m));
+  - est
 
   (ele) é;
-  - (tu) est
+  - (ille) est
 
   há (=existe);
-  - sum
+  - est
 
   (vós) sois/(vocês) são;
-  - ille
+  - estis
 
   eles são;
+- sunt
+
+-- eu sou, tu és, ele é, nós somos, vós sois, *eles são*.
+-- sum, es, est, sumus, estis, *sunt*.
+-- Tibulo: Longo tempo ensinou ao leão aceitar o jugo humano.
+
   é;
+- est
+
   eu sou;
+- ego sum
+
   (ela) é;
+- illa est
 
   #+end_quote
 
-  - 2. mude s. para pl. e vise versa
+  - 2. mude s. para pl. e /vice versa/
 
   #+begin_quote text
 
@@ -81,6 +106,8 @@ XX/08/2026
   es;
   - estis
 
+-- muito bem
+
   #+end_quote
 
   - 3. Usando a nota 5 da gramática, faça a correta tradução destas frases: 
@@ -89,37 +116,49 @@ XX/08/2026
 
   a) familia est;
      
-     é família.
+     é [uma] família.
   
-  b) serua Spahyla est;
+  b) serua Staphyla est; 
 
-     uma (mulher) serva é o que é Spahyla. 
+     ~~uma (mulher) serva é o que é Staphyla.~~
+
+-- em latim a ordem mais comum é Sujeito Objeto/predicado Verbo
+-- se /serua/ for o sujeito: *a escrava é Estáfila*
      
   c) est anim aula auri plena (aula, panela; auri plena, cheia de ouro);
 
      há/existe uma alma plena cheia de ouro.
+--   há/existe uma panela cheia de ouro.
      
   d) coquus est seruus (coquus, cozinheiro; seruus, escravo);
 
      o cozinheiro é escravo.
+-- ok
   
   e) Phaedra filia est;
 
      Faidra é filia.
+--   Fedra é filha. (lat. ae > e por., por ex. /aether/ > /éter/)
+
      
   f) in aedibus sunt Euclio, Phaedra et serua (in aedibus, na casa);
 
      na casa são Euclio, Faidra e a escrava.
+--   na casa estão Euclio, Fedra e a escrava.
+
      
-  g) auarus est senex (auarus, avarento, senex, o (homen) velho);
+  g) auarus est senex (auarus, avarento, senex, o (homem) velho);
 
      um (homem) avarento é o que o velho é.
+--   avarento é o velho; o velho é avarento.
      o velho avarento.
+--  esta tradução só se não houvesse verbo: senex avarus.
+
      
   h) est prope flumen paruus ager (prope flumen, perto do rio; paruus, pequeno, ager, campo);
 
      há/existe perto do rio um pequeno campo.
-  
+-- ok  
 
   #+end_quote
 
@@ -131,47 +170,68 @@ XX/08/2026
      Há na família uma escrava.
 
      - são na família Euclião, Fedra, e Staphyla.
+--     há na família Euclião, Fedra, e Staphyla.
+-- Do latim para o português os nomes próprios vêm do acusativo singular:
+-- nom. sg. sphynx, acu. sg. /sphyngem/ > por. esfinge
+-- nom. sg. Plato, acu. sg. /Platōnem/ > por. Platão
+-- nom. sg. Euclio, acu. sg. /Eucliōnem/ > por. Euclião
+
      - est in familia serua.
+-- ok
 
   b) Euclio et Phaedra in aedibus sunt.
      A escrava está em casa.
 
      - Euclio e Fedra estão em casa.
+--   - Euclião e Fedra estão em casa.
+
      - serua est in aedibus.
+-- ok
 
   c) Euclio sum.
      você é um escravo.
 
      - Euclio é.
+--   - Eu sou Euclião
      - est tu seruus.
-  
-  d) filia Euclionis Phaedra est.
-     A escrava de Euclião é Estáfila.
+--   - (tu) es seruus.
 
-     - a filia de Euclião é Fedra.
-     - seria Euclionis Staphyla est.
+
+  d) filia Euclionis Phaedra est.
+-- - a filia de Euclião é Fedra.
+     A escrava de Euclião é Estáfila.
+   - seria Euclionis Staphyla est.
+-- - A escrava de Euclião é Estáfila.
+     
 
   e) Quis es?
      Sou Euclião.
 
      - quem é?
+--   - quem és?
      - Euclio sum.
   
   f) qui estis?
      Somos Euclião e Fedra.
 
      - quem vocês são?
+--   - quem vocês são? / quem sois?
      - estis Euclião Fedra.
-     
+--   - estis Euclião Fedra.
+
+-- grk. nom. sg. Plátōn  > lat. Platō
+-- grk. acu. sg. Plátōna > lat. Platōnem
 
   #+end_quote
-  
+
+
+-- vimos até aqui 2026-08-28
+
 ****** sessão 1A
 
-- conjulgação de verbo 1º e 2º decl
+- conjugação de verbo 1º e 2º decl
 
   #+begin_quote text
-
 
   1ºs. amo
   2ºs. amas
